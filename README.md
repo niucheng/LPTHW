@@ -3,9 +3,15 @@ Learn Programming The Hard Way
 
 A.k.a. Teach Cousin Learn Programming (教堂弟学编程).
 
-LICENSE
+Courses
 =======
 
+- [ ] C programming
+- [ ] C++ programming
+- [ ] Python script, etc
+
+LICENSE
+=======
 
 The LPTHW content is released under The MIT License (MIT).
 
@@ -20,6 +26,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+--
 
 Learn Programming The Hard Way (LPTHW) - 2014
 
