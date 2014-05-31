@@ -1,12 +1,28 @@
-LPTHW
-=====
-
-Learn Programming The Hard Way
-
-A.k.a. Teach Cousin Learn Programming.
-
 教堂弟学编程
 ============
 
 最近堂弟对学习编程的热情日益高涨，为了帮助堂弟少走弯路，更快地提升编程技巧，特别列出学习大纲，同时加以文档化，记录大家的成长过程。
+
+学习大纲
+========
+
+前期主要的功课是C语言的学习，然后进化到C++课程，辅助学习Python等脚本语言。
+
+阅读书目
+========
+
+按推荐程度列写课程需要阅读的书目。
+
+- [ ] 数学
+  - [ ] 同济版高等数学
+
+- [ ] C语言
+  - [ ] The C Programming Language
+  - [ ] C Primer Plus
+
+- [ ] C++语言
+  - [ ] C++ Primer
+
+- [ ] Python
+  - [ ] Learn Python The Hard Way
 
