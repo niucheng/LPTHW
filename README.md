@@ -1,7 +1,7 @@
 Learn Programming The Hard Way
 ==============================
 
-A.k.a. Teach Cousin Learn Programming (教堂弟学编程).
+A.k.a. Teach Cousin To Learn Programming (教堂弟学编程).
 
 Courses
 =======
