@@ -46,6 +46,6 @@
   - [ ] 深入理解计算机系统
 
 - [ ] 版本管理
-  - [ ] SVN
-  - [ ] Git
+  - [ ] SVN ([Version Control with Subversion](http://svnbook.red-bean.com/))
+  - [ ] Git ([Pro Git](http://git-scm.com/book))
 
