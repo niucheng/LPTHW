@@ -28,5 +28,5 @@ SOFTWARE.
 
 --
 
-Learn Programming The Hard Way (LPTHW) - 2014
+Learn Programming The Hard Way (LPTHW) - 2014 :sparkles:
 
