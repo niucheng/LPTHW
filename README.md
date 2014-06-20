@@ -10,6 +10,11 @@ Courses
 - [ ] C++ programming
 - [ ] Python script, etc
 
+Philosophy
+==========
+
+May the children all of the world program at ease, with a lot of fun!
+
 LICENSE
 =======
 
