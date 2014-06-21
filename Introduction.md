@@ -29,6 +29,16 @@
 - [ ] Python
   - [ ] Learn Python The Hard Way
 
+- [ ] 数据库
+  - [ ] 关系数据库
+    - [ ] MySQL
+    - [ ] MariaDB
+    - [ ] PostgreSQL
+    - [ ] Oracle
+  - [ ] 非关系型数据库 (NoSQL)
+    - [ ] BigTable
+    - [ ] MongoDB
+
 - [ ] 数据结构与算法
   - [ ] 数据结构与算法分析：C语言描述
   - [ ] 算法导论
