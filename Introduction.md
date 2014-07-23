@@ -57,5 +57,5 @@
 
 - [ ] 版本管理
   - [ ] SVN ([Version Control with Subversion](http://svnbook.red-bean.com/))
-  - [ ] Git ([Pro Git](http://git-scm.com/book))
+  - [ ] Git ([Pro Git](http://git-scm.com/book)) ([中文版](http://git-scm.com/book/zh))
 
